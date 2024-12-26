@@ -12,6 +12,8 @@ Every step of the project built throughout the course will have a folder that wi
 We recommend using `Node.js version 20` with this course. The project will be built from scratch so most of the folders in this repo are just for reference. Later in the course, the `api` directory will be used to simulate an API server. To get set up, clone the repository:
 
 ```bash
+git clone https://github.com/iturdikulov/citr-v9-project
+# or original one
 git clone https://github.com/btholt/citr-v9-project.git
 ```
 
